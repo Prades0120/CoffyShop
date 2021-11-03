@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Coffy Shop</string>
+    <string name="todo">TODO</string>
+    <string name="reserve">RESERVE</string>
+    <string name="antico_caffe">Antico Caffè Greco</string>
+    <string name="coffee_room">Coffee Room</string>
+    <string name="coffee_ibiza">Coffee Ibiza</string>
+    <string name="pudding_coffee">Puddinf Coffee Shop</string>
+    <string name="l_expres">L\'Express</string>
+    <string name="coffee_corner">Coffee Corner</string>
+    <string name="sweet_cup">Sweet Cup</string>
+    <string name="italy_rome">St. Italy, Rome</string>
+    <string name="germany_berlin">St. Germany, Berlin</string>
+    <string name="colon_madrid">St. Colón, Madrid</string>
+    <string name="diagonal_barcelona">St. Diagonal, Barcelona</string>
+    <string name="picadilly_circus">St. Picadilly Circus, London</string>
+    <string name="angel_gimera">St. Àngel Guimerà, Valencia</string>
+    <string name="kinkerstraat">St. Kinkerstraat, Amsterdam</string>
+    <string name="_0">0</string>
+</resources>
